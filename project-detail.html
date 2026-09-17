@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Details | GitHub Case Study</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <a href="index.html" class="logo">
+            <span class="logo-badge">PORTFOLIO</span>
+            <span class="logo-name">DESIGNS</span>
+        </a>
+        <div class="nav-links">
+            <button class="theme-toggle-btn" id="themeToggle">🌓 Theme</button>
+            <a href="index.html#work" class="nav-btn-highlight">← Back to Showcase</a>
+        </div>
+    </header>
+
+    <div class="project-header-2nd">
+        <span class="badge-accent rose-badge" id="projCategory">Case Study Showcase</span>
+        <h1 id="projTitle">Educational Motion Video Series</h1>
+        
+        <div class="project-meta-grid">
+            <div class="meta-card">
+                <i class="fas fa-tag icon-emerald"></i>
+                <div>
+                    <label>Category</label>
+                    <p id="projCategoryMeta">Motion Graphics & Video</p>
+                </div>
+            </div>
+            <div class="meta-card">
+                <i class="fas fa-user icon-violet"></i>
+                <div>
+                    <label>Role</label>
+                    <p id="projRole">2D Animator & Editor</p>
+                </div>
+            </div>
+            <div class="meta-card">
+                <i class="fas fa-tools icon-rose"></i>
+                <div>
+                    <label>Tools Used</label>
+                    <p id="projTools">Premiere Pro, After Effects</p>
+                </div>
+            </div>
+            <div class="meta-card">
+                <i class="fab fa-github icon-cyan"></i>
+                <div>
+                    <label>Repository</label>
+                    <p><a id="projGithubLink" href="https://github.com/ShubhamKumarSingh03" target="_blank" class="github-direct-link"><i class="fab fa-github"></i> Open Repo ↗</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="project-details-body">
+
+        <!-- Dynamic Carousel / Media Section -->
+        <div class="swiper detailSwiper project-carousel-frame" id="detailMediaContainer">
+            <div class="swiper-wrapper" id="detailSwiperWrapper">
+                <!-- Media Slides will be dynamically injected via script.js -->
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-pagination"></div>
+        </div>
+
+        <div class="detail-content-box">
+            <h3>Project Overview</h3>
+            <p id="projOverview">Detailed overview from README.md file...</p>
+        </div>
+
+        <div class="detail-content-box">
+            <h3>Key Technical Solutions & Design Workflow</h3>
+            <p id="projSolutions">Workflow details and technical notes...</p>
+        </div>
+
+        <div class="detail-content-box">
+            <a id="projGithubBtnBig" href="https://github.com/ShubhamKumarSingh03" target="_blank" class="btn btn-emerald" style="display: inline-flex; gap: 10px; align-items: center;">
+                <i class="fab fa-github" style="font-size: 18px;"></i> View Repository on GitHub ↗
+            </a>
+        </div>
+    </div>
+
+    <footer class="portfolio-footer">
+        <p>© 2026 Creative Portfolio. All rights reserved.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.0/vanilla-tilt.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
