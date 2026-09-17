@@ -102,13 +102,13 @@ const projectsData = {
         overview: "Created an animation-ready 2D character sheet showcasing multiple poses, facial expressions, and action variations. The project focuses on developing a consistent character style suitable for animation and visual storytelling.",
         solutions: "Designed a consistent character model across different poses and expressions, while maintaining visual proportions and animation-friendly artwork for use in storytelling and motion projects.",
         media: [
-            { type: "image", url: "Char Pics/1-1.png" },
-            { type: "image", url: "Char Pics/1-2.png" },
-            { type: "image", url: "Char Pics/1-3.png" },
-            { type: "image", url: "Char Pics/1-4.png" },
-            { type: "image", url: "Char Pics/1-5.png" },
-            { type: "image", url: "Char Pics/1-6.png" },
-            { type: "video", url: "Char Pics/1.mp4" }
+            { type: "image", url: "/Char Pics/1-1.png" },
+            { type: "image", url: "/Char Pics/1-2.png" },
+            { type: "image", url: "/Char Pics/1-3.png" },
+            { type: "image", url: "/Char Pics/1-4.png" },
+            { type: "image", url: "/Char Pics/1-5.png" },
+            { type: "image", url: "/Char Pics/1-6.png" },
+            { type: "video", url: "/Char Pics/1.mp4" }
         ]
     },
     2: {
@@ -120,11 +120,11 @@ const projectsData = {
         overview: "Developed an original 2D village-inspired character with a traditional Indian visual identity and a relaxed seated pose, designed for animation and storytelling.",
         solutions: "Focused on creating a culturally recognizable character through clothing, appearance, pose, and visual styling while keeping the design simple and suitable for animation.",
         media: [
-            { type: "image", url: "Char Pics/2-1.png" },
-            { type: "image", url: "Char Pics/2-2.png" },
-            { type: "image", url: "Char Pics/2-3.png" },
-            { type: "image", url: "Char Pics/2-4.png" },
-            { type: "video", url: "Char Pics/2.mp4" }
+            { type: "image", url: "/Char Pics/2-1.png" },
+            { type: "image", url: "/Char Pics/2-2.png" },
+            { type: "image", url: "/Char Pics/2-3.png" },
+            { type: "image", url: "/Char Pics/2-4.png" },
+            { type: "video", url: "/Char Pics/2.mp4" }
         ]
     },
     3: {
@@ -136,12 +136,12 @@ const projectsData = {
         overview: "Created an original 2D female character featuring traditional Indian attire, detailed clothing, accessories, and a clean animation-ready visual style.",
         solutions: "Developed the character's appearance through detailed costume design, accessories, facial features, and proportions while maintaining a clean visual language suitable for animation and storytelling. ",
         media: [
-            { type: "image", url: "Char Pics/3-1.png" },
-            { type: "image", url: "Char Pics/3-2.png" },
-            { type: "image", url: "Char Pics/3-3.png" },
-            { type: "image", url: "Char Pics/3-4.png" },
-            { type: "image", url: "Char Pics/3-5.png" },
-            { type: "video", url: "Char Pics/3.mp4" }
+            { type: "image", url: "/Char Pics/3-1.png" },
+            { type: "image", url: "/Char Pics/3-2.png" },
+            { type: "image", url: "/Char Pics/3-3.png" },
+            { type: "image", url: "/Char Pics/3-4.png" },
+            { type: "image", url: "/Char Pics/3-5.png" },
+            { type: "video", url: "/Char Pics/3.mp4" }
         ]
     },
     4: {
@@ -153,11 +153,11 @@ const projectsData = {
         overview: "Designed an original 2D male character with a clean casual appearance, expressive facial features, detailed clothing, and an animation-ready design.",
         solutions: "Built a visually consistent character by combining expressive facial design, clothing details, proportions, and a clean illustration style that can be adapted for animation and visual storytelling. ",
         media: [
-            { type: "image", url: "Char Pics/4-1.png" },
-            { type: "image", url: "Char Pics/4-2.png" },
-            { type: "image", url: "Char Pics/4-3.png" },
-            { type: "image", url: "Char Pics/4-4.png" },
-            { type: "video", url: "Char Pics/4.mp4" }
+            { type: "image", url: "/Char Pics/4-1.png" },
+            { type: "image", url: "/Char Pics/4-2.png" },
+            { type: "image", url: "/Char Pics/4-3.png" },
+            { type: "image", url: "/Char Pics/4-4.png" },
+            { type: "video", url: "/Char Pics/4.mp4" }
         ]
     },
     5: {
