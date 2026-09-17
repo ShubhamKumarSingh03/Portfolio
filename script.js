@@ -102,7 +102,7 @@ const projectsData = {
         overview: "Created an animation-ready 2D character sheet showcasing multiple poses, facial expressions, and action variations. The project focuses on developing a consistent character style suitable for animation and visual storytelling.",
         solutions: "Designed a consistent character model across different poses and expressions, while maintaining visual proportions and animation-friendly artwork for use in storytelling and motion projects.",
         media: [
-            { type: "image", url: "/Char Pics/1-1.png" },
+            { type: "image", url: "Char Pics/1-1.png" },
             { type: "image", url: "/Char Pics/1-2.png" },
             { type: "image", url: "/Char Pics/1-3.png" },
             { type: "image", url: "/Char Pics/1-4.png" },
