@@ -103,12 +103,12 @@ const projectsData = {
         solutions: "Designed a consistent character model across different poses and expressions, while maintaining visual proportions and animation-friendly artwork for use in storytelling and motion projects.",
         media: [
             { type: "image", url: "Char Pics/1-1.png" },
-            { type: "image", url: "/Char Pics/1-2.png" },
-            { type: "image", url: "/Char Pics/1-3.png" },
-            { type: "image", url: "/Char Pics/1-4.png" },
-            { type: "image", url: "/Char Pics/1-5.png" },
-            { type: "image", url: "/Char Pics/1-6.png" },
-            { type: "video", url: "/Char Pics/1.mp4" }
+            { type: "image", url: "Char Pics/1-2.png" },
+            { type: "image", url: "Char Pics/1-3.png" },
+            { type: "image", url: "Char Pics/1-4.png" },
+            { type: "image", url: "Char Pics/1-5.png" },
+            { type: "image", url: "Char Pics/1-6.png" },
+            { type: "video", url: "Char Pics/1.mp4" }
         ]
     },
     2: {
@@ -120,11 +120,11 @@ const projectsData = {
         overview: "Developed an original 2D village-inspired character with a traditional Indian visual identity and a relaxed seated pose, designed for animation and storytelling.",
         solutions: "Focused on creating a culturally recognizable character through clothing, appearance, pose, and visual styling while keeping the design simple and suitable for animation.",
         media: [
-            { type: "image", url: "/Char Pics/2-1.png" },
-            { type: "image", url: "/Char Pics/2-2.png" },
-            { type: "image", url: "/Char Pics/2-3.png" },
-            { type: "image", url: "/Char Pics/2-4.png" },
-            { type: "video", url: "/Char Pics/2.mp4" }
+            { type: "image", url: "Char Pics/2-1.png" },
+            { type: "image", url: "Char Pics/2-2.png" },
+            { type: "image", url: "Char Pics/2-3.png" },
+            { type: "image", url: "Char Pics/2-4.png" },
+            { type: "video", url: "Char Pics/2.mp4" }
         ]
     },
     3: {
@@ -136,12 +136,12 @@ const projectsData = {
         overview: "Created an original 2D female character featuring traditional Indian attire, detailed clothing, accessories, and a clean animation-ready visual style.",
         solutions: "Developed the character's appearance through detailed costume design, accessories, facial features, and proportions while maintaining a clean visual language suitable for animation and storytelling. ",
         media: [
-            { type: "image", url: "/Char Pics/3-1.png" },
-            { type: "image", url: "/Char Pics/3-2.png" },
-            { type: "image", url: "/Char Pics/3-3.png" },
-            { type: "image", url: "/Char Pics/3-4.png" },
-            { type: "image", url: "/Char Pics/3-5.png" },
-            { type: "video", url: "/Char Pics/3.mp4" }
+            { type: "image", url: "Char Pics/3-1.png" },
+            { type: "image", url: "Char Pics/3-2.png" },
+            { type: "image", url: "Char Pics/3-3.png" },
+            { type: "image", url: "Char Pics/3-4.png" },
+            { type: "image", url: "Char Pics/3-5.png" },
+            { type: "video", url: "Char Pics/3.mp4" }
         ]
     },
     4: {
@@ -153,11 +153,11 @@ const projectsData = {
         overview: "Designed an original 2D male character with a clean casual appearance, expressive facial features, detailed clothing, and an animation-ready design.",
         solutions: "Built a visually consistent character by combining expressive facial design, clothing details, proportions, and a clean illustration style that can be adapted for animation and visual storytelling. ",
         media: [
-            { type: "image", url: "/Char Pics/4-1.png" },
-            { type: "image", url: "/Char Pics/4-2.png" },
-            { type: "image", url: "/Char Pics/4-3.png" },
-            { type: "image", url: "/Char Pics/4-4.png" },
-            { type: "video", url: "/Char Pics/4.mp4" }
+            { type: "image", url: "Char Pics/4-1.png" },
+            { type: "image", url: "Char Pics/4-2.png" },
+            { type: "image", url: "Char Pics/4-3.png" },
+            { type: "image", url: "Char Pics/4-4.png" },
+            { type: "video", url: "Char Pics/4.mp4" }
         ]
     },
     5: {
@@ -169,7 +169,7 @@ const projectsData = {
         overview: "A showcase of selected stages from a complete 2D animated video project, covering the creative and production workflow from story development and visual planning to animation, compositing, sound, and final video production.",
         solutions: "Structured the animation workflow into multiple production stages, bringing together storytelling, visual planning, animation, compositing, and sound to create a complete animated video. ",
         media: [
-            { type: "video", url: "/Vid Glimps/Glimpses.mp4" }
+            { type: "video", url: "Vid Glimps/Glimpses.mp4" }
         ]
     },
     6: {
@@ -181,7 +181,7 @@ const projectsData = {
         overview: "Created a 2D educational explainer video that visually explains the solution to the mathematical problem of counting total 8-digit numbers, using Adobe Creative Suite and AI voice synthesis.",
         solutions: "Converted a mathematical concept into an easy-to-follow visual explanation using 2D animation, structured visual sequencing, motion graphics, and AI-generated voice narration to improve clarity and engagement.",
         media: [
-            { type: "video", url: "/Vid Glimps/Maths Concept Video.mp4" }
+            { type: "video", url: "Vid Glimps/Maths Concept Video.mp4" }
         ]
     },
 };
